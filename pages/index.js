@@ -6,21 +6,64 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Digitaleguide.com</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Digital Guide Latest Tech News Update" />
         <p className="description">
-          We provide detailed credit card and bill payment information<br> from banks such as Bank of America, American Express, Citibank, etc, as well as US based retail store credit cards such as The Limited, Macy’s, Lowe’s, Home Depot, etc. We also provide bill pay information for utility companies, insurance companies, mortgage lenders, cable and wireless providers, and just about any company that charges a bill. Digitaleguide.com conveniently list account login info, customer service 800 numbers, pay-by-phone numbers, and account mailing addresses. https://digitaleguide.com also provides video tutorials showing you how to quickly and easily navigate a biller’s website in order to pay your bill.
+          <!-- wp:paragraph -->
+<p>Are you searching for how to do www MinuteClinic billpay? So you are in the right place.&nbsp;</p>
+<!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>Here you will easily get all the possible methods by which you can make a payment or contact them.</p>
+<!-- /wp:paragraph -->
 
-The reason for this site is simple. Because there is so much competitive marketing information from one company to the next, many times a large company will unknowingly or unintentionally bury important information on its website making it difficult for its customer to find the information and pay their bills in a timely fashion. Digitaleguide.com provides this important information along with a bit about the various credit programs so that you can quickly contact the relevant company, resolve any issue you may have, or make your bill payment on time and avoid costly late fees. 
+<!-- wp:paragraph -->
+<p>More: <a href="https://digitaleguide.com/cvs-carepass-phone-number-details/">CVS CarePass Phone Number Details</a></p>
+<!-- /wp:paragraph -->
 
-The credit card industry alone takes in over $10 billion in penalty fees (late fees, over limit fees, etc.) each year.
-If you have any additional information regarding a company that you believe would be helpful to visitors, please send us a message by posting a comment. If you know of any company whose payment info is hard to find, please let us know!
-Get Free Credit Updates!
+<!-- wp:heading -->
+<h2>www MinuteClinic Billpay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you're a patient at the CVS Minute Clinic and have an outstanding bill, you must pay. You can choose several ways to make the payment, and you can make&nbsp;<strong>Minute Clinic payments</strong>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><strong>Online</strong>: Go to https://www.quickpayportal.com/ and follow the directions to get your bill paid online.</li><li><strong>In-person:</strong>&nbsp;Minute Clinic patients pay in person at CVS cash, check, cash (in CVS stores, not in Target stores) or by credit card.</li><li><strong>MinuteClinic bill pay</strong>&nbsp;<strong>by phone:</strong>&nbsp;The CVS Minute Clinic customer service payment number is 866-389-227.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"align":"center","id":3500,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://digitaleguide.com/wp-content/uploads/2021/12/minuteclinicbillpay.png" alt="www minuteclinic billpay" class="wp-image-3500"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3>MinuteClinic Online Bill Pay Requirments</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>The new QuickPay codes are distributed on the 25th of each month (old codes are rescinded)</li><li>There are no dashes to be entered in entering the QuickPay number.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>To pay the cost of CVS, You must register an account and then avail of the benefits once you log in. We'll walk you through the steps to sign in to your CVS MinuteClinic account before explaining the steps to make payments on the Minute Clinic bill.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>CVS Minute Clinic Payment Login</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>To begin, visit the CVS MinuteClinic login site on www.cvs.com.</li><li>On this page, right-click on the Sign In button on the top.</li><li>You will receive an email, and you can enter your registered email address</li><li>Click"Continue" to enter your registered username on the following page.</li><li>Then, press the button Register to gain access to the CVS Minute Clinic billing pay login page.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Once you've successfully signed in to your MinuteClinic account, we'll demonstrate how to pay payments online.</p>
+<!-- /wp:paragraph -->
  <code>pages/index.js</code>
         </p>
       </main>
