@@ -21,7 +21,7 @@ export default function Home() {
         Visit official website of <a href="https://Digitaleguide.com">https://Digitaleguide.com</a>
 
 <p>A Bit About Us.</p>
-<p>Credit Card Payment.net has been helping people pay their bills online since 2003..</p>
+<p>Digitaleduide.com has been helping people pay their bills online since 2003..</p>
 <p>We provide detailed credit card and bill payment information from banks such as Bank of America, American Express, Citibank, etc, as well as US based retail store credit cards such as The Limited, Macy’s, Lowe’s, Home Depot, etc. </p>
 <p>We also provide bill pay information for utility companies, insurance companies, mortgage lenders, cable and wireless providers, and just about any company that charges a bill.</p>
 <p>Digitaleguide.com conveniently list account login info, customer service 800 numbers, pay-by-phone numbers, and account mailing addresses. https://digitaleguide.com also provides video tutorials showing you how to quickly and easily navigate a biller’s website in order to pay your bill.
