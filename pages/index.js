@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Digital Guide</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,7 +18,7 @@ export default function Home() {
       </main>
     <h1>Digital Guide</h1>
         
-        Visit official website of <a href="https://Digitaleguide.com">https://Digitaleguide.com</a>
+        Visit official website <a href="https://Digitaleguide.com">https://Digitaleguide.com</a>
 
 <p>A Bit About Us.</p>
 <p>Digitaleduide.com has been helping people pay their bills online since 2003..</p>
